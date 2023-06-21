@@ -6,7 +6,7 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 Run this command in your GitHub CLI
 
-https://github.com/Souhardyagayen99/issue_tracker
+(https://github.com/sansarshokeen1998/issue-tracker)
 
 # How to Run
 npm install <br>
